@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<niveles2>
+  <item_1>
+    <id>1308</id>
+    <desc>BICICLETA</desc>
+  </item_1>
+  <item_921>
+    <id>923</id>
+    <desc>Manteniment de parcs i jardins</desc>
+  </item_921>
+  <item_921>
+    <id>924</id>
+    <desc>Requeriment parcs i jardins</desc>
+  </item_921>
+  <item_921>
+    <id>1190</id>
+    <desc>Neteja de parcs i jardins</desc>
+  </item_921>
+  <item_921>
+    <id>926</id>
+    <desc>Altres parcs i jardins</desc>
+  </item_921>
+  <item_922>
+    <id>925</id>
+    <desc>Manteniment de la via púlica</desc>
+  </item_922>
+  <item_922>
+    <id>927</id>
+    <desc>Requeriment a via pública</desc>
+  </item_922>
+  <item_922>
+    <id>928</id>
+    <desc>Altres via pública</desc>
+  </item_922>
+  <item_990>
+    <id>991</id>
+    <desc>Neteja viaria</desc>
+  </item_990>
+  <item_990>
+    <id>992</id>
+    <desc>Contenidors</desc>
+  </item_990>
+  <item_990>
+    <id>993</id>
+    <desc>Recollida de residus</desc>
+  </item_990>
+  <item_990>
+    <id>994</id>
+    <desc>Altres recollida i neteja</desc>
+  </item_990>
+  <item_990>
+    <id>1178</id>
+    <desc>Moviment contenidors</desc>
+  </item_990>
+  <item_1032>
+    <id>1033</id>
+    <desc>Manteniment d'edificis municipals</desc>
+  </item_1032>
+  <item_1032>
+    <id>1057</id>
+    <desc>Altres edificis municipals</desc>
+  </item_1032>
+  <item_1032>
+    <id>1059</id>
+    <desc>Requeriment de neteja edificis municipals</desc>
+  </item_1032>
+  <item_1032>
+    <id>1076</id>
+    <desc>Requeriment gestió energètica</desc>
+  </item_1032>
+  <item_1032>
+    <id>1081</id>
+    <desc>Requeriment edificis municipals</desc>
+  </item_1032>
+  <item_1126>
+    <id>1127</id>
+    <desc>Ocupacions de via pública</desc>
+  </item_1126>
+  <item_1126>
+    <id>1128</id>
+    <desc>Guals</desc>
+  </item_1126>
+  <item_1126>
+    <id>1129</id>
+    <desc>Actes a la via pública</desc>
+  </item_1126>
+  <item_1126>
+    <id>1130</id>
+    <desc>Primeres ocupacions</desc>
+  </item_1126>
+  <item_1126>
+    <id>1131</id>
+    <desc>Inspeccions dirigides</desc>
+  </item_1126>
+  <item_1126>
+    <id>1171</id>
+    <desc>Altres inspecció de via pública</desc>
+  </item_1126>
+  <item_1139>
+    <id>1140</id>
+    <desc>Transport urbà</desc>
+  </item_1139>
+  <item_1139>
+    <id>1144</id>
+    <desc>Transport interurbà</desc>
+  </item_1139>
+  <item_1139>
+    <id>1148</id>
+    <desc>Estacionament</desc>
+  </item_1139>
+  <item_1139>
+    <id>1155</id>
+    <desc>Circulació</desc>
+  </item_1139>
+  <item_1139>
+    <id>1166</id>
+    <desc>Projectes</desc>
+  </item_1139>
+  <item_1201>
+    <id>1202</id>
+    <desc>Administració de via pública</desc>
+  </item_1201>
+  <item_1206>
+    <id>1207</id>
+    <desc>Plànols i estadística</desc>
+  </item_1206>
+  <item_1209>
+    <id>1210</id>
+    <desc>Altres</desc>
+  </item_1209>
+</niveles2>

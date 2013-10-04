@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<niveles1>
+  <item>
+    <id>921</id>
+    <desc>Parcs i jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1126</id>
+    <desc>Inspecció de via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>922</id>
+    <desc>Manteniment via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1139</id>
+    <desc>Transport i mobilitat</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>990</id>
+    <desc>Recollida i neteja</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1201</id>
+    <desc>Administració de via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1032</id>
+    <desc>Edificis municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1206</id>
+    <desc>Plànols i estadística</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1209</id>
+    <desc>Altres</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1479</id>
+    <desc>manel</desc>
+    <idPadre>-1</idPadre>
+  </item>
+</niveles1>
